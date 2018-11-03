@@ -1,0 +1,26 @@
+h1 {
+    color: #ffffff;
+    font-family: 'Taviraj', serif;
+}
+
+.jumbotron {
+    background-color:#100b5c;
+    width: auto;
+    margin-bottom: 50px;;
+}
+
+#search {
+    width: auto;
+    margin: auto;
+}
+
+#topArticles {
+    width: auto;
+    margin: auto;
+}
+
+#searchButton, #clearButton {
+    background-color: #100b5c;
+    border-color: #ffffff;
+    color: #ffffff;
+}
